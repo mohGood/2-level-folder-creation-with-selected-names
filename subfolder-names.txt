@@ -1,0 +1,5 @@
+BOM
+CP
+TP
+Customer Drawing
+Others
