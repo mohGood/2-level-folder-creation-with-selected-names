@@ -10,4 +10,4 @@ for products in product_list:
     os.mkdir(products)
     
 for subfolders in subfolder_list:
-        os.mkdir(products + '/' + subfolders)
+    os.mkdir(products + '/' + subfolders)
