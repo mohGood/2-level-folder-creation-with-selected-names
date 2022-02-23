@@ -8,6 +8,5 @@ with open('subfolder-names.txt') as sub:
 
 for products in product_list:
     os.mkdir(products)
-    
-for subfolders in subfolder_list:
+    for subfolders in subfolder_list:
     os.mkdir(products + '/' + subfolders)
